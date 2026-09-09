@@ -1,7 +1,7 @@
 <div align="center">
 
-# Harshita Singh
-### **Full Stack Developer | AI/ML Specialist**
+# Hi 👋, I'm Harshita Singh
+### **Full Stack Developer | AI/ML**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harshitasingh108)
@@ -74,39 +74,10 @@ I am a driven **Full Stack Developer** and **AI/ML Specialist** dedicated to eng
 
 ## 🧩 Data Structures & Algorithms
 
-<div align="center">
-
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=harshitasingh108&theme=Dark)
-
-*Automated synchronization powered by **LeetHub v2** into my private `Leetcode_DSA` repository.*
-
-</div>
-
 - **Core Language:** C++ (STL, Pointers, Memory Management)
 - **Focus Areas:** Arrays, Hash Tables, Two Pointers, Sliding Window, Trees, Graphs, Dynamic Programming
 - **Practice Tracking:** Continuous problem solving on LeetCode & GeeksforGeeks
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=harshitasingh108&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Harshita's GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harshitasingh108&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-
-</div>
-
----
-
-## 🐍 Activity Snake
-
-<div align="center">
-
-![Contribution Snake](https://raw.githubusercontent.com/harshitasingh108/harshitasingh108/output/github-contribution-grid-snake.svg)
-
-</div>
+- **Automated Sync:** Solutions automatically synchronized via **LeetHub v2** into my private `Leetcode_DSA` repository.
 
 ---
 
