@@ -1,16 +1,7 @@
 <div align="center">
 
-# Hi there, I'm Harshita Singh 👋
+# Harshita Singh
 ### **Full Stack Developer | AI/ML Specialist**
-
-```
-  __  __                  __    _ _        ____  _             _      
- |  \/  | ___ _ __ _ __  / /_  | (_)      / ___|| |_  __ _ ___| |__   
- | |\/| |/ _ \ '__| '_ \| '_ \ | | |      \___ \| __|/ _` / __| '_ \  
- | |  | |  __/ |  | | | | (_) || | |       ___) | |_| (_| \__ \ | | | 
- |_|  |_|\___|_|  |_| |_|\___/ |_|_|      |____/ \__|\__,_|___/_| |_| 
-                                                                      
-```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harshitasingh108)
@@ -85,7 +76,7 @@ I am a driven **Full Stack Developer** and **AI/ML Specialist** dedicated to eng
 
 <div align="center">
 
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/harshitasingh108)
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=harshitasingh108&theme=Dark)
 
 *Automated synchronization powered by **LeetHub v2** into my private `Leetcode_DSA` repository.*
 
@@ -101,13 +92,9 @@ I am a driven **Full Stack Developer** and **AI/ML Specialist** dedicated to eng
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshitasingh108&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="Harshita's GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=harshitasingh108&theme=tokyonight&hide_border=true" height="175" alt="Harshita's GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitasingh108&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-<img src="https://github-profile-trophy.vercel.app/?username=harshitasingh108&theme=onedark&column=4&margin-w=10&margin-h=10&no-bg=true" height="165" alt="GitHub Trophies" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=harshitasingh108&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Harshita's GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harshitasingh108&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 
 </div>
 
